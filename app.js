@@ -36,7 +36,9 @@ function ShoppingListService(){
   var service = this;
   var toBuy = [ {name : 'Cookies', quantity : 10},
                 {name : 'Chocolate Bar', quantity : 20},
-                {name : 'Chees Cake', quantity : 30} ];
+                {name : 'Chees Cake', quantity : 30}
+                {name : 'Marshmallow', quantity : 15}
+                {name : 'Jelly Bean', quantity : 30} ];
 
   var alreadyBought = [];
 
